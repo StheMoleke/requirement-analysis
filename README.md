@@ -111,3 +111,52 @@ Examples for a Booking Management System:
     The platform must be mobile-responsive across devices.
 
     The system should have 99.9% uptime availability.
+## 🧩 Use Case Diagrams
+
+**Use Case Diagrams** are a type of UML (Unified Modeling Language) diagram used to visually represent the interactions between **users (actors)** and the **system**. They help define what the system will do from the end-user's perspective.
+
+### ✅ Benefits of Use Case Diagrams:
+- Clearly outline **system functionality**
+- Help identify all **types of users** and their interactions
+- Provide a **foundation for writing detailed requirements**
+- Assist in **validating scope** with stakeholders early on
+
+---
+
+### 🏡 Use Case Diagram: Property Booking System
+
+The following use case diagram illustrates the primary actors and their interactions within a basic property booking system:
+
+📌 **Actors:**
+- **Guest/User** – Can search, book, or cancel properties
+- **Admin** – Manages users and property listings
+- **Property Owner** – Can add or remove listings
+
+📌 **Use Cases:**
+- Register/Login
+- Search Properties
+- View Property Details
+- Book Property
+- Cancel Booking
+- Add Property
+- Remove Property
+- Approve Listing
+- Manage Users
+
+![Use Case Diagram](alx-booking-uc.png)
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of conditions that a software product must satisfy to be accepted by a user, customer, or stakeholder. They define the boundaries of a user story or feature and ensure that everyone involved in the development process has a shared understanding of the requirements.
+
+---
+
+### 💡 Importance of Acceptance Criteria in Requirement Analysis:
+
+- Ensures **clarity and alignment** between stakeholders and developers.
+- Helps the **QA team test** whether a feature is working as intended.
+- Acts as a **reference point** during feature development and reviews.
+- Reduces ambiguity and **prevents scope creep**.
+
+---
+
+### 🛒 Example: Acceptance Criteria for a Checkout Feature in a Book
