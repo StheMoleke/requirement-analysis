@@ -41,3 +41,73 @@ By identifying and addressing issues early, requirement analysis helps prevent e
 
 Well-defined requirements lead to better design, more focused development, and more effective testing. This results in software that meets user needs, performs reliably, and is easier to maintain and enhance in the future.
 
+#  Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several structured activities that ensure a clear and shared understanding of the software to be built. Below are the five key activities involved:
+
+    📥 Requirement Gathering
+
+        Collecting initial requirements from stakeholders through interviews, surveys, observations, or existing documentation.
+
+        The goal is to understand the business needs, pain points, and expectations.
+
+    🧠 Requirement Elicitation
+
+        Engaging with stakeholders to dig deeper into their needs using techniques like brainstorming, workshops, role-playing, and prototyping.
+
+        Helps refine and uncover hidden or conflicting requirements.
+
+    📝 Requirement Documentation
+
+        Converting the gathered and elicited information into structured documents such as Software Requirement Specifications (SRS), use cases, and user stories.
+
+        Ensures clarity and acts as a reference for designers, developers, and testers.
+
+    📊 Requirement Analysis and Modeling
+
+        Organizing and analyzing requirements to identify gaps, overlaps, or contradictions.
+
+        Includes the creation of models like data flow diagrams, use case diagrams, and entity-relationship models to visualize the system.
+
+    ✔️ Requirement Validation
+
+        Reviewing requirements with stakeholders to confirm accuracy, completeness, and feasibility.
+
+        Ensures that the documented requirements truly represent what the stakeholders need.
+
+        #📂 Types of Requirements
+
+Software requirements are generally classified into two main categories: Functional Requirements and Non-functional Requirements. Both play a crucial role in defining what the system should do and how it should perform.
+✅ Functional Requirements
+
+Definition:
+Functional requirements describe what the system should do — the specific features, behavior, and functions it must perform.
+
+Examples for a Booking Management System:
+
+    Users can search for available properties by location, date, and price.
+
+    Users can create an account and log in securely.
+
+    Property owners can list their properties with details and availability.
+
+    The system must allow booking confirmations and cancellations.
+
+    Users receive email notifications upon booking or cancellation.
+
+⚙️ Non-functional Requirements
+
+Definition:
+Non-functional requirements describe how the system should perform — they define quality attributes like performance, usability, and security.
+
+Examples for a Booking Management System:
+
+    The website should load within 2 seconds on standard broadband.
+
+    The system must support up to 10,000 concurrent users.
+
+    Data should be encrypted both at rest and in transit.
+
+    The platform must be mobile-responsive across devices.
+
+    The system should have 99.9% uptime availability.
